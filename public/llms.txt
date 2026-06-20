@@ -1,0 +1,99 @@
+# volnor — Generative Engine Optimization Map
+
+> An automated and user-friendly dropshipping store focused on seamless e-commerce operations, likely aiming to minimize manual work through automation while providing a smooth shopping experience for customers.
+
+---
+
+## Pages
+
+### בית
+https://volnor-8fedf4b5.zappy5.app
+גלה את volnor, הפלטפורמה החכמה לדרופשיפינג ומסחר אלקטרוני. אוטומציה מלאה, חוויית קנייה חלקה וניהול קל שממזער עבודה ידנית. התחל למכור בחוכמה עוד היום!
+
+### תכונות
+https://volnor-8fedf4b5.zappy5.app/features
+כל התכונות שצריך לדרופשיפינג מנצח: אוטומציה חכמה, סנכרון מלא עם Shopify, וממשק ידידותי שחוסך זמן. הצטרף ל-volnor ותן למערכת לעבוד בשבילך!
+
+### אודות
+https://volnor-8fedf4b5.zappy5.app/about
+volnor נולדה כדי לפשט את עולם הדרופשיפינג והמסחר האלקטרוני. הכירו את החזון, הצוות והטכנולוגיה שמאחורי הפלטפורמה שתחסוך לכם שעות של עבודה ידנית.
+
+### צור קשר
+https://volnor-8fedf4b5.zappy5.app/contact
+יש שאלה על דרופשיפינג או על volnor? צרו קשר עכשיו לקבלת ייעוץ אישי, תמיכה טכנית או כל בקשה. אנחנו כאן כדי להפוך את המסחר האלקטרוני שלך לחלק ומהיר!
+
+### Products
+https://volnor-8fedf4b5.zappy5.app/products
+המוצרים שלנו - volnor
+
+### Cart
+https://volnor-8fedf4b5.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://volnor-8fedf4b5.zappy5.app/checkout
+תשלום
+
+### Login
+https://volnor-8fedf4b5.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://volnor-8fedf4b5.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://volnor-8fedf4b5.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://volnor-8fedf4b5.zappy5.app/product/:slug
+פרטי המוצר - volnor
+
+### Category
+https://volnor-8fedf4b5.zappy5.app/category/:slug
+מוצרים - volnor
+
+## Legal & Policy
+
+### Privacy Policy
+https://volnor-8fedf4b5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://volnor-8fedf4b5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://volnor-8fedf4b5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About volnor
+An automated and user-friendly dropshipping store focused on seamless e-commerce operations, likely aiming to minimize manual work through automation while providing a smooth shopping experience for customers.
+
+## Target Audience
+- נוודים דיגיטליים
+- אנשים שרוצים לקנות דברים באינטרנט
+
+## Industry
+E-commerce / Dropshipping
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://volnor-8fedf4b5.zappy5.app/sitemap.xml
+- Robots: https://volnor-8fedf4b5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://volnor-8fedf4b5.zappy5.app/llms-full.txt
+- Products (JSON): https://volnor-8fedf4b5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://volnor-8fedf4b5.zappy5.app/product-feed.xml
