@@ -2,13 +2,13 @@
 
 An automated and user-friendly dropshipping store focused on seamless e-commerce operations, likely aiming to minimize manual work through automation while providing a smooth shopping experience for customers.
 
-Source: https://volnor-8fedf4b5.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הפוך את החנות שלך לאוטומטית עם דרופשיפינג — volnor
 
-URL: https://volnor-8fedf4b5.zappy5.app
+URL: https://example.com
 Description: גלה את volnor, הפלטפורמה החכמה לדרופשיפינג ומסחר אלקטרוני. אוטומציה מלאה, חוויית קנייה חלקה וניהול קל שממזער עבודה ידנית. התחל למכור בחוכמה עוד היום!
 
 הפוך את החנות שלך לאוטומטית עם דרופשיפינג — volnor
@@ -455,7 +455,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## כלים אוטומטיים שישדרגו לך את העסק — volnor
 
-URL: https://volnor-8fedf4b5.zappy5.app/features
+URL: https://example.com/features
 Description: כל התכונות שצריך לדרופשיפינג מנצח: אוטומציה חכמה, סנכרון מלא עם Shopify, וממשק ידידותי שחוסך זמן. הצטרף ל-volnor ותן למערכת לעבוד בשבילך!
 
 כלים אוטומטיים שישדרגו לך את העסק — volnor
@@ -910,7 +910,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## הסיפור מאחורי המהפכה בדרופשיפינג — volnor
 
-URL: https://volnor-8fedf4b5.zappy5.app/about
+URL: https://example.com/about
 Description: volnor נולדה כדי לפשט את עולם הדרופשיפינג והמסחר האלקטרוני. הכירו את החזון, הצוות והטכנולוגיה שמאחורי הפלטפורמה שתחסוך לכם שעות של עבודה ידנית.
 
 הסיפור מאחורי המהפכה בדרופשיפינג — volnor
@@ -1341,7 +1341,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## דברו איתנו והתחילו למכור בקלות — volnor
 
-URL: https://volnor-8fedf4b5.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על דרופשיפינג או על volnor? צרו קשר עכשיו לקבלת ייעוץ אישי, תמיכה טכנית או כל בקשה. אנחנו כאן כדי להפוך את המסחר האלקטרוני שלך לחלק ומהיר!
 
 דברו איתנו והתחילו למכור בקלות — volnor
@@ -1731,7 +1731,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## מוצרים
 
-URL: https://volnor-8fedf4b5.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - volnor
 
 מוצרים - volnor
@@ -1986,7 +1986,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## עגלת קניות
 
-URL: https://volnor-8fedf4b5.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - volnor
@@ -2217,7 +2217,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## תשלום
 
-URL: https://volnor-8fedf4b5.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - volnor
@@ -2634,7 +2634,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## התחברות
 
-URL: https://volnor-8fedf4b5.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - volnor
@@ -2872,7 +2872,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## החשבון שלי
 
-URL: https://volnor-8fedf4b5.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - volnor
@@ -3265,7 +3265,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## ההזמנה התקבלה!
 
-URL: https://volnor-8fedf4b5.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - volnor
@@ -3520,7 +3520,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## מדיניות החזרות
 
-URL: https://volnor-8fedf4b5.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - volnor
@@ -3804,7 +3804,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## פרטי המוצר
 
-URL: https://volnor-8fedf4b5.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - volnor
 
 פרטי המוצר - volnor
@@ -4037,7 +4037,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## מוצרים
 
-URL: https://volnor-8fedf4b5.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - volnor
 
 מוצרים - volnor
@@ -4294,7 +4294,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## מדיניות פרטיות
 
-URL: https://volnor-8fedf4b5.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4569,7 +4569,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## הצהרת נגישות
 
-URL: https://volnor-8fedf4b5.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4853,7 +4853,7 @@ volnor – המותג שמביא אליכם את העולם. מוצרים נבח
 
 ## תנאי שימוש
 
-URL: https://volnor-8fedf4b5.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
